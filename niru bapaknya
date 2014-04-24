@@ -1,0 +1,9 @@
+public static void main (String args[]){
+  main (){
+    
+  }
+  int add(int a,b){
+    return a+b;
+  }
+
+}
